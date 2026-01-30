@@ -1,0 +1,37 @@
+.text{
+    font-weight: bold;
+}
+.biglietti{
+    display:flex;
+    flex-direction: column;
+}
+
+.container1{
+    display: flex;
+}
+.item{
+    flex:1;
+}
+
+.container2{
+    display: flex;
+    margin: 10em 0 20px 0;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.bottoni{
+    display: flex;
+    justify-content: center;
+}
+
+.col1{
+    flex:1;
+}
+
+.col2{
+    flex:1
+}
+.parziale{
+    font-weight: bold;
+}

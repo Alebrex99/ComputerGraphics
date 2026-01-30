@@ -1,0 +1,22 @@
+.App {
+}
+
+.flex{
+  display: flex;
+}
+
+.chart{
+  flex: 1;
+}
+
+.Mappa{
+  margin: 1em auto;
+}
+
+.dati{
+  flex:1;
+  margin:1em;
+  padding: 1em;
+  border: solid 1px lightgrey;
+  text-align: center;
+}
